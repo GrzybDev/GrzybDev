@@ -1,4 +1,4 @@
-# Hi there! I'm [Marek!](https://grzybdev.github.io) 👋
+# Hi there! I'm [Marek](https://grzybdev.github.io)! 👋
 
 <a href="https://twitter.com/GrzybDev">
   <img align="left" alt="Marek Grzyb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
