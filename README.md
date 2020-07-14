@@ -12,8 +12,6 @@
   <img align="left" alt="Marek Grzyb | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
-<br/>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=GrzybDev.GrzybDev)
 
 ### Hi! 🙋‍
