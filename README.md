@@ -25,7 +25,7 @@
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: The **first computer *“bug” 🐛*** was identified in 1947 as a dead moth 🦋.
 
-![GrzybDev's github stats](https://github-readme-stats.vercel.app/api?username=GrzybDev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![GrzybDev's github stats](https://github-readme-stats.vercel.app/api?username=GrzybDev&show_icons=true)
 
 ## I'm into:
 - Backend programming
