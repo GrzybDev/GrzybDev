@@ -13,7 +13,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=GrzybDev.GrzybDev)
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GrzybDev" />
 
 ### Hi! 🙋‍
 ### I'm 20 years old self-taught backend developer from Poland!
@@ -27,6 +26,7 @@
 - ⚡ Fun fact: The **first computer *“bug” 🐛*** was identified in 1947 as a dead moth 🦋.
 
 ![GrzybDev's github stats](https://github-readme-stats.vercel.app/api?username=GrzybDev&show_icons=true&theme=dark)
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GrzybDev" />
 
 ## I'm into:
 - Backend programming
