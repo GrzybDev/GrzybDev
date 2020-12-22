@@ -13,6 +13,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=GrzybDev.GrzybDev)
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GrzybDev" />
 
 ### Hi! 🙋‍
 ### I'm 20 years old self-taught backend developer from Poland!
