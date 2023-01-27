@@ -34,7 +34,7 @@
 
 ## 📈 GitHub Stats 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GrzybDev&show_icons=true&theme=dark" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danascape&theme=dark" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=GrzybDev&theme=dark" /><p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrzybDev&theme=dark" /></p>
 
 ## I'm into:
