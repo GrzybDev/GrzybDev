@@ -1,0 +1,138 @@
+{
+    "jobs": [
+        {
+            "role": "IT Technician",
+            "role_description": "IT Technician responsible for maintaining and repairing computer hardware and peripherals, as well as installing and configuring computer networks.",
+            "company": "PeCeT Serwis Jan Kołomański",
+            "company_url": "http://www.pecet.com.pl/",
+            "current": false,
+            "from": [2019, 2],
+            "to": [2020, 3],
+            "employment_form": "Scholarship",
+            "location": "Wałbrzych, Lower Silesia, Poland",
+            "technologies": ["Hardware"]
+        },
+        {
+            "role": "Python Backend Developer",
+            "role_history": ["Regular/Mid", "Junior"],
+            "role_description": "Python Backend Developer responsible for creating and maintaining REST APIs, as well as creating and maintaining microservices. Working on daily basis with UK-based client creating a CMS platform for managing marketing-related assets using Vidispine and Amazon Web Services (AWS) in connection with in-house developed and maintained microservices.",
+            "company": "@STXNext",
+            "current": true,
+            "from": [2021, 8],
+            "employment_form": "Full-Time (Commission Contract/Freelance)",
+            "location": "Wrocław, Lower Silesia, Poland",
+            "technologies": ["Backend", "Python", "Flask", "FastAPI", "Amazon Web Services", "Vidispine"]
+        }
+    ],
+    "education": [
+        {
+            "name": "Zespół Szkół Politechnicznych \"Energetyk\" w Wałbrzychu",
+            "field_of_study": "Information Technology",
+            "degree": "Technician",
+            "from": [2016],
+            "to": [2020],
+            "location": "Wałbrzych, Lower Silesia, Poland"
+        },
+        {
+            "name": "Uniwersytet Dolnośląski DSW (DSW University of Lower Silesia)",
+            "field_of_study": "Information Technology",
+            "degree": "Engineer",
+            "from": [2020, 9],
+            "to": [2024, 3],
+            "location": "Wrocław, Lower Silesia, Poland"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Computer Languages",
+            "list": [
+                {
+                    "name": "Python",
+                    "badge": "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54",
+                    "backgroundColor": "#3670a0",
+                    "level": 2
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E",
+                    "backgroundColor": "#323330",
+                    "sizeFix": true,
+                    "level": 2
+                },
+                {
+                    "name": "Java",
+                    "badge": "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white",
+                    "backgroundColor": "#ed8b00",
+                    "level": 1
+                },
+                {
+                    "name": "C#",
+                    "badge": "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white",
+                    "backgroundColor": "#239120",
+                    "level": 1
+                },
+                {
+                    "name": "C++",
+                    "badge": "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white",
+                    "backgroundColor": "#00599c",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "name": "Human Languages",
+            "list": [
+                {
+                    "name": "Polish",
+                    "level": 3
+                },
+                {
+                    "name": "English",
+                    "level": 2
+                }
+            ]
+        },
+        {
+            "name": "Game Engines",
+            "list": [
+                {
+                    "name": "Unity",
+                    "badge": "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white",
+                    "backgroundColor": "#000000",
+                    "level": 2
+                },
+                {
+                    "name": "Unreal Engine",
+                    "badge": "https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white",
+                    "backgroundColor": "#313131",
+                    "sizeFix": true,
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "name": "Services",
+            "list": [
+                {
+                    "name": "Firebase",
+                    "badge": "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase",
+                    "backgroundColor": "#039be5",
+                    "sizeFix": true,
+                    "level": 3
+                },
+                {
+                    "name": "Amazon Web Services",
+                    "badge": "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white",
+                    "backgroundColor": "#ff9900",
+                    "level": 2
+                },
+                {
+                    "name": "Azure",
+                    "badge": "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white",
+                    "backgroundColor": "#0072c6",
+                    "level": 0
+                }
+            ]
+        }
+    ]
+}
