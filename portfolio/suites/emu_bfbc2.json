@@ -1,0 +1,5 @@
+{
+  "name": "Battlefield: Bad Company 2 Master Server Emulator",
+  "description": "Completely reworked Master Server for Battlefield: Bad Company 2 done in Django.",
+  "apps": ["BFBC2_MasterServer", "BFBC2_Hook"]
+}
