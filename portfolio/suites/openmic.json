@@ -1,6 +1,5 @@
 {
   "name": "OpenMic",
   "description": "OpenMic turns your phone into a computer microphone.",
-  "icon": "https://raw.githubusercontent.com/GrzybDev/GrzybDev/main/portfolio/suites/openmic.webp",
-  "apps": ["OpenMicClient", "OpenMicServer"]
+  "icon": "https://raw.githubusercontent.com/GrzybDev/GrzybDev/main/portfolio/suites/openmic.webp"
 }
