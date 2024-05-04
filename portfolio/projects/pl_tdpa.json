@@ -1,0 +1,27 @@
+{
+    "name": "Polish Fan Translation for The Dark Pictures Anthology",
+    "description": "Unofficial translation of The Dark Pictures Anthology games into Polish.",
+    "navbarLinks": [
+        {
+            "name": "Man of Medan",
+            "app": "SMG019"
+        },
+        {
+            "name": "Little Hope",
+            "app": "SMG024"
+        },
+        {
+            "name": "House of Ashes",
+            "app": "SMG025"
+        },
+        {
+            "name": "The Devil in Me",
+            "app": "SMG028"
+        }
+    ],
+    "siteTheme": 1,
+    "siteData": {
+        "localizedHeader": "Spolszczenie do:",
+        "localizedHeaderPlural": "Spolszczenia do:"
+    }
+}
