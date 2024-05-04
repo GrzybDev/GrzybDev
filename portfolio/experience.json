@@ -1,0 +1,145 @@
+{
+    "jobs": [
+        {
+            "role": "IT Technician",
+            "role_description": "I was responsible for maintaining and repairing computer hardware and peripherals, as well as installing and configuring computer networks.",
+            "company": "PeCeT Serwis Jan Kołomański",
+            "company_blog": "http://www.pecet.com.pl/",
+            "currentlyEmployed": false,
+            "startDate": "2019-03",
+            "endDate": "2019-04",
+            "employmentType": "Scholarship",
+            "location": "Wałbrzych, Lower Silesia, Poland",
+            "technologies": ["Hardware"]
+        },
+        {
+            "role": "Python Backend Developer",
+            "role_history": ["Regular/Mid", "Junior"],
+            "role_description": "I was responsible for creating and maintaining REST APIs, as well as creating and maintaining microservices. Working on daily basis with UK-based client creating a CMS platform for managing marketing-related assets using Vidispine and Amazon Web Services (AWS) in connection with in-house developed and maintained microservices. I was also responsible for creating and maintaining a CI/CD pipeline (GitHub Actions) for the project. After a few months, original project was marked as End of Life (EOL) and I was moved to a new project under the same client, where I was responsible for creating and maintaining backend services using Azure Functions and also migrating some existing code from Azure Logic Apps to Azure Functions as well as working closely with the Azure API Management service and DevOps client's team.",
+            "company": "@STXNext",
+            "currentlyEmployed": true,
+            "startDate": "2021-09",
+            "employmentType": "Full-Time (Commission Contract/Freelance)",
+            "location": "Wrocław, Lower Silesia, Poland",
+            "technologies": ["Backend", "Python", "Flask", "FastAPI", "Amazon Web Services", "Vidispine", "Azure", "Azure Functions", "Azure Logic Apps", "Azure API Management", "DevOps", "CI/CD", "GitHub Actions"]
+        }
+    ],
+    "education": [
+        {
+            "institution": {
+                "name": "Zespół Szkół Politechnicznych \"Energetyk\" w Wałbrzychu",
+                "site": "https://energetyk.walbrzych.pl/",
+                "logo": "https://energetyk.walbrzych.pl/wp-content/uploads/2015/10/cropped-Zmiana-rozmiaruIzabela-energol.jpg"
+            },
+            "major": "Information Technology",
+            "degree": "Technician",
+            "startDate": "2016",
+            "endDate": "2020",
+            "currentlyEnrolled": false,
+            "location": "Wałbrzych, Lower Silesia, Poland"
+        },
+        {
+            "institution": {
+                "name": "Uniwersytet Dolnośląski DSW (DSW University of Lower Silesia)",
+                "site": "https://www.dsw.edu.pl/english/",
+                "logo": "https://www.dsw.edu.pl/sites/dsw/files/favicon_dsw.png"
+            },
+            "major": "Information Technology",
+            "degree": "Engineering Degree",
+            "field": "Engineer of Mobile Applications and Systems",
+            "startDate": "2020-10",
+            "endDate": "2024-03",
+            "currentlyEnrolled": false,
+            "location": "Wrocław, Lower Silesia, Poland"
+        },
+        {
+            "institution": {
+                "name": "Uniwersytet WSB Merito Wrocław (WSB Merito University Wrocław)",
+                "site": "https://www.merito.pl/english/wroclaw/",
+                "logo": "https://www.merito.pl/sites/wsb/files/favicon_merito.png"
+            },
+            "major": "Information Technology",
+            "degree": "Master's Degree",
+            "field": "Cybersecurity",
+            "startDate": "2024-03",
+            "endDate": "2026-03",
+            "currentlyEnrolled": true,
+            "location": "Wrocław, Lower Silesia, Poland"
+        }
+    ],
+    "skills": [
+        {
+            "name": "🖥️ Computer Languages",
+            "list": [
+                {
+                    "name": "Python",
+                    "level": 3
+                },
+                {
+                    "name": "JavaScript",
+                    "level": 2
+                },
+                {
+                    "name": "TypeScript",
+                    "level": 2
+                },
+                {
+                    "name": "Java",
+                    "level": 1
+                },
+                {
+                    "name": "C#",
+                    "level": 1
+                },
+                {
+                    "name": "C++",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "name": "Human Languages",
+            "isAboutHumanLanguages": true,
+            "list": [
+                {
+                    "name": "Polish",
+                    "level": 3
+                },
+                {
+                    "name": "English",
+                    "level": 2
+                }
+            ]
+        },
+        {
+            "name": "Game Engines",
+            "list": [
+                {
+                    "name": "Unity",
+                    "level": 2
+                },
+                {
+                    "name": "Unreal Engine",
+                    "level": 0
+                }
+            ]
+        },
+        {
+            "name": "Services",
+            "list": [
+                {
+                    "name": "Firebase",
+                    "level": 3
+                },
+                {
+                    "name": "Amazon Web Services",
+                    "level": 2
+                },
+                {
+                    "name": "Azure",
+                    "level": 2
+                }
+            ]
+        }
+    ]
+}
