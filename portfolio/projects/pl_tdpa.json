@@ -19,9 +19,5 @@
             "app": "SMG028"
         }
     ],
-    "siteTheme": 1,
-    "siteData": {
-        "localizedHeader": "Spolszczenie do:",
-        "localizedHeaderPlural": "Spolszczenia do:"
-    }
+    "siteTheme": 1
 }
